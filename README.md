@@ -16,6 +16,6 @@ precisely to the early 20th Century (1920s), when Emanuel Goldberg (1881–1970)
 his studies regarding this issue and suggested that a statistical approach would be an
 optimal choice.
 
-To address this issue in Python, the *scikit-learn* library provides a good example
+To address this issue in Python, the **scikit-learn** library provides a good example
 to better understand this technique, the issues involved, and the possibility of making
 predictions
