@@ -8,7 +8,7 @@ order to sort mail automatically and efficiently.
 Included among the other applications that may come to mind is OCR (Optical
 Character Recognition) software. OCR software must read handwritten text, or pages of
 printed books, for general electronic documents in which each character is well
-defined.
+defined.<\n>
 But the problem of handwriting recognition goes farther back in time, more
 precisely to the early 20th Century (1920s), when Emanuel Goldberg (1881–1970) began
 his studies regarding this issue and suggested that a statistical approach would be an
